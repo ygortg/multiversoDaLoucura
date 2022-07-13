@@ -1,0 +1,65 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  font-family: 'Times New Roman', Times, serif;
+  background: url("img/capa.jpg") fixed;
+  text-align: center;
+  min-height: 600px;
+  padding: 50px;
+}
+
+h1, h2{
+  color: white;
+  padding: 10px;
+  width: 300px;
+  margin: 0 auto;
+}
+h1{
+  background-color: black;
+}
+h2{
+  background-color: red;
+}
+
+h3{
+  margin: 10px 0;
+}
+
+.conteudo{
+  width: 800px;
+  padding: 30px 10px;
+  margin: 0 auto;
+}
+
+main img{
+  width: 200px;
+  height: 250px;
+}
+
+.divulgacao{
+  background-image: url("img/img1.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  height: 300px;
+
+}
+
+main p{
+  margin: 0 auto;
+  text-align: justify;
+  line-height: 36px;
+}
+
+.sinopse p{
+  line-height: 32px;
+}
+
+span{
+  color: white;
+  background-color: red;
+  padding: 8px;
+  border-radius: 10px;
+}
